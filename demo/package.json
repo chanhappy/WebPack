@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "name": "demo",
+  "scripts": {
+    "build": "webpack"
+  },
+  "version": "1.0.0",
+  "description": "study",
+  "repository": "https://github.com/chanhappy/webpack.git",
+  "author": "zhangchanjuan",
+  "license": "MIT"
+}
